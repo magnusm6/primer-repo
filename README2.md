@@ -1,3 +1,6 @@
+![Imagen](http://gdurl.com/EqS1 "CR7")
+
+
 Como editar markdown (md) files
 ===============================
 
@@ -133,3 +136,4 @@ To put a code block within a list item, the code block needs to be indented twic
 ---------------------------------------
 
 
+![Imagen](http://gdurl.com/Q7_G "No te vayas :(")
